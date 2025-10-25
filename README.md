@@ -1,16 +1,25 @@
-## Hi there 👋
+Hey there 👋, I'm Hilary Omondi
 
-<!--
-**luckylittleman/luckylittleman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Software Engineer | 🤖 Aspiring Machine Learning Engineer | 🇰🇪 Kenyan
 
-Here are some ideas to get you started:
+🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 I’m currently studying Machine Learning & AI
+
+🌐 Really into making deliciously good looking smart web apps
+
+💡 Building Cole Apparels, a clothing e-commerce site
+
+💡 Building a smart system that improves student success
+
+☕I stir together coffee, code and creativity to bring ideas to life
+
+🎯 : To mix AI,Machine Learning and web technologies to solve real problems.
+
+
+### 🌍 Connect with Me  
+(https://www.instagram.com/life.with_hilary/)  
+
+
+⭐ *“Keep learning, keep building — your code today shapes the future.”*  
+
