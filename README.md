@@ -21,5 +21,3 @@ Hey there 👋, I'm Hilary Omondi
 (https://www.instagram.com/life.with_hilary/)  
 
 
-⭐ *“Keep learning, keep building — your code today shapes the future.”*  
-
