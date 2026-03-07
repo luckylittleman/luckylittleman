@@ -8,8 +8,6 @@ Hey there 👋, I'm Hilary Omondi
 
 🌐 Really into making deliciously good looking smart web apps
 
-💡 Building Cole Apparels, a clothing e-commerce site
-
 💡 Building a smart system that improves student success
 
 ☕I stir together coffee, code and creativity to bring ideas to life
