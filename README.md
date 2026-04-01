@@ -48,7 +48,8 @@
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
 
 
-### 🌍 Connect with Me  
-(https://www.instagram.com/life.with_hilary/)  
-
+---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" alt="Lucky's GitHub Stats" />
+</p>
 
