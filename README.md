@@ -25,11 +25,27 @@
 </p>
 
 
-<h2 align="left">🚀 Current Projects</h2>
+<h2 align="center">🎯 Focus & Expertise</h2>
 
-<h2 align="left">🚀 About Me</h2>
+<p align="left">
+  <b>Bridging the gap between intelligent data models and scalable software solutions.</b>
+</p>
 
+### 🧠 Machine Learning & Data Science
+> **Developing predictive models to turn raw data into actionable insights.**
+* **Focus:** Supervised Learning, Data Visualization, & Predictive Analytics.
+* **Languages & Tools:** <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
 
+### 🌐 Full-Stack Development
+> **Architecting high-performance backends and interactive user interfaces.**
+* **Focus:** RESTful APIs, Database Management, & Responsive Web Apps.
+* **Languages & Tools:** <img src="https://img.shields.io/badge/fastapi-109989?style=flat-square&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB" />
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white" />
 
 
 ### 🌍 Connect with Me  
