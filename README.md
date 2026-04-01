@@ -25,7 +25,7 @@
 </p>
 
 
-<h2 align="center">🎯 Focus & Expertise</h2>
+<h2 align="left">🎯 Focus & Expertise</h2>
 
 <p align="left">
   <b>Bridging the gap between intelligent data models and scalable software solutions.</b>
