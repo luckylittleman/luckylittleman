@@ -1,6 +1,7 @@
+<h1 align="center"> 💻 Software Engineer | 🤖 Machine Learning Engineer</h1>
+
 Hey there 👋, I'm Hilary Omondi
 
-💻 Software Engineer | 🤖 Aspiring Machine Learning Engineer | 🇰🇪 Kenyan
 
 🌟 About Me
 
