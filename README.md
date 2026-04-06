@@ -1,7 +1,7 @@
 <h1 align="left">HILARY OMONDI</h1>
  
 
-<p align="left"> 💻 Software Engineer | 🤖 Machine Learning Engineer
+<p align="left"> 💻 Software Engineer | 🤖 Machine Learning/Artificial Intelligence
 
   <b>Constantly leveling up at the intersection of AI and Development. Whether I’m optimizing a neural network  or architecting a backend, I’m driven by the goal of building tools that matter before the data goes to waste.</b>
 </p>
